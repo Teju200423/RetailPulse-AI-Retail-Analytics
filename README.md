@@ -22,7 +22,10 @@ The project was implemented using Python, machine learning libraries, time-serie
 ---
 
 # Dataset Information
+## Dataset Note
 
+The cleaned retail dataset file is not included in the repository due to GitHub file size limitations. The project uses the Online Retail II dataset from the UCI Machine Learning Repository.
+https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 The dataset contains retail transaction information including:
 
 * Invoice details
